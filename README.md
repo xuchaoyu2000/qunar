@@ -2,6 +2,16 @@
 
 > 利用周末时间用vue全家桶制作去哪儿网APP
 
+## 技术栈
+- vue2
+- vue-router
+- webpack
+- axios
+- vuex
+- stylus
+- es6
+- iconfont
+
 ## Build Setup
 
 ``` bash
