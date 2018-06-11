@@ -10,6 +10,7 @@
 - vuex
 - stylus
 - es6
+- vue-awesome-swiper
 - iconfont
 
 ## Build Setup
