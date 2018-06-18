@@ -8,7 +8,7 @@
       <span class="center-line">输入城市/景点/游玩主题</span>
     </div>
     <div class="right">
-      城市
+      {{this.$store.state.city}}
       <span class="iconfont icon-arrow">&#xe6a5;</span>
     </div>
   </div>
